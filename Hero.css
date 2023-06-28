@@ -1,3 +1,32 @@
 body{
-	background-color: red;
+	margin: 0;
+	font-family:'Ysabeau Office', sans-serif;
+
+}
+
+header{
+	background-color: #26538d;
+	text-align: Center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1 {
+	color: whitesmoke;
+}
+
+header img{
+    border-radius: 300px;
+    width: 264px;
+    border: 8px #F9ee54 solid;
+}
+
+main{
+	max-width: 800px;
+	margin:0 auto;
+	padding:0 20px;
+}
+
+main img{
+	max-width: 100%;
 }
