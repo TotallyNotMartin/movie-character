@@ -1,6 +1,9 @@
 body{
 	margin: 0;
 	font-family:'Ysabeau Office', sans-serif;
+	background-color: #F0FFFF;
+	font-size: 20px;
+	line-height: 30px;
 
 }
 
@@ -29,4 +32,24 @@ main{
 
 main img{
 	max-width: 100%;
+}
+
+
+h2{
+	font-size: 35px;
+	margin: 40px 0px 10px;
+}
+
+footer{
+	color: whitesmoke;
+	background-color: #26538d;
+	padding-top: 20px;
+	padding-bottom:20px;
+	text-align:center;
+	font-size:30px;
+	font: bold;
+}
+
+footer p{
+	margin: 0px;
 }
